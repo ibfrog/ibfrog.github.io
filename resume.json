@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Jeremiah Carlin",
+    "label": "Senior Android Developer",
+    "picture": "https://drive.google.com/file/d/1zzGBgHt85cGrlxEqSdccoifKAnhQRtJu/view?usp=sharing",
+    "email": "jdcarlin@gmail.com",
+    "phone": "(507) 254-3633",
+    "summary": "Senior full stack Android developer and tech lead with a background in systems software, firmware, infrastructure, and tooling.  Detail oriented self starter that is highly adaptable and analytical.",
+    "location": {
+      "address": "1591 4th ST NE",
+      "postalCode": "MN 55920",
+      "city": "Byron",
+      "countryCode": "US",
+      "region": "Minnesota"
+    }
+  },
+  "work": [
+    {
+      "company": "Naviga",
+      "position": "Fullstack Android Developer",
+      "website": "https://navigaglobal.com/",
+      "startDate": "2019-02-01",
+      "summary": "Developed and maintained Android code and AWS backend",
+      "highlights": [
+        "Enhance and maintain Android app platform",
+        "Manage complex collection of services and microservices in AWS",
+        "Enhance and maintain codebases in PHP, MySQL, Go, Node.js, Typescript, and Python",
+        "Design and deploy services using CloudFormation and Serverless",
+        "Investigate and debug support issues using a wide range of AWS services",
+        "Work with clients to gather requirements and product ownership to define roadmap and development priorities.",
+        "Mediate between senior leadership and development team"
+      ]
+    },
+    {
+      "company": "Naviga",
+      "position": "Senior Android Developer",
+      "website": "https://navigaglobal.com/",
+      "startDate": "2019-02-01",
+      "endDate" : "2014-05-01",
+      "summary": "Created News App Platform",
+      "highlights": [
+        "Developed and maintained Android app platform for broadcast and print media in Kotlin and Java",
+        "Supported 6.5 million monthly active users across 500 apps",
+        "Mentored junior developers in Android best practices, code quality, and architecture",
+        "Refactored data layer from Otto to RxJava with emphasis on immutability, performance, and testing",
+        "Designed MVP based display system for self contained widgets that enabled app wide code reuse",
+        "Created custom LayoutManager for RecyclerView, custom views, animations, and a podcast service",
+        "Built out business and view logic with MVVM, MVP, and Lifecycle components",
+        "Wrote automated build system for client application customization and publication",
+        "Deployed and managed Dockerized instance of Artifactory and Jenkins for build and development"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Watson DevOps",
+      "website": "https://www.ibm.com/watson",
+      "startDate": "2012-01-01",
+      "endDate" : "2014-05-01",
+      "summary": "Infrastructure management, tooling, automations, and capital planning for IBM Watson's healthcare initiative",
+      "highlights": [
+        "Supported 300+ developers across 200+ systems",
+        "Scripted, tooled, and configured IBM Watson, associated middleware, and file systems",
+        "Maintained large scale network file system (GPFS)",
+        "Managed capital planning and hardware purchasing for Watson healthcare development"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Tech Lead / Developer",
+      "website": "https://www.ibm.com",
+      "startDate": "2010-12-01",
+      "endDate" : "2012-01-01",
+      "summary": "Tech lead for a mobile internet optimization platform (3G mobile network edge caching)",
+      "highlights": [
+        "Led software and firmware teams through requirements gathering, architecture, and delivery",
+        "Supported hardware teams and vendors through initial bringup and functional verification tests",
+        "Designed and implemented vendor support layer for embedded Linux"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Team Lead / Developer",
+      "website": "https://www.ibm.com",
+      "startDate": "2008-04-01",
+      "endDate" : "2010-12-01",
+      "summary": "Tech lead for several projects that aimed to enable cloud computing style management for IBM proprietary hardware and operating systems.",
+      "highlights": [
+        "Produced and presented cloud computing competitive analysis to executive team",
+        "Developed libvirt based virtualization manager and associated management tooling",
+        "Enabled KVM image manager for IBM Systems Director",
+        "Mentored team through code reviews and architectural guidance",
+        "Wrote and conducted customer acceptance tests to collect feedback on product",
+        "Automated configuration of IBM System P VIOS to adhere to published best practices",
+        "Wrote command execution abstraction layer to support remote execution and local testing"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Firmware Engineer",
+      "website": "https://www.ibm.com",
+      "startDate": "2007-08-01",
+      "endDate" : "2008-04-01",
+      "summary": "Refactored and enhanced service processor code for Cell based PCIe graphics card",
+      "highlights": [
+        "Automated and supported hardware bringup and validation for cell based graphics card",
+        "Refactored service processor code to enhance stability and performance"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Software Engineer",
+      "website": "https://www.ibm.com",
+      "startDate": "2007-08-01",
+      "endDate" : "2008-04-01",
+      "summary": "Junior developer for IBM i operating system",
+      "highlights": [
+        "Developed shared memory page table for Unix style process local addressing in IBM i Operating System",
+        "Created diagnostic utilities to satisfy key client requirements",
+        "Modernized regression test bucket"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Michigan Technological University",
+    "area": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2001-09-01",
+    "endDate": "2005-08-01",
+    "gpa": "3.83"
+  }],
+  "skills": [
+    {
+      "name": "Android Languages",
+      "level": "Master",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "Gradle"
+      ]
+    },
+    {
+      "name": "Android Frameworks",
+      "keywords": [
+        "MVP",
+        "MVVM",
+        "RxJava",
+        "OkHttp",
+        "Retrofit",
+        "Coroutines",
+        "Jetpack"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Typescript",
+        "Node.js",
+        "Python",
+        "Go",
+        "PHP",
+        "MySQL",
+        "Bash",
+        "Fish"
+      ]
+    },
+    {
+      "name": "AWS",
+      "keywords" : [
+        "CloudFormation",
+        "Serverless",
+        "EC2",
+        "ECS",
+        "Lambda",
+        "CloudWatch",
+        "RDS",
+        "DynamoDB"
+      ]
+    }
+  ],
+  "references": [{
+    "name": "Nick Campion, Director of Naviga Mobile",
+    "reference": "Jeremiah possesses a rare combination of deep technical knowledge, burning desire to understand how things work, soft-spoken humbleness and a magnetic teaching skill that draws in teammates. Jeremiah is a natural team leader, with the ability to arbitrate between many viewpoints to build a technical consensus while keeping the overall business objectives in sight. His extensive experience creating products used by millions of users shows in everything he does. His flexibility to understand driver level mechanics all the way up the stack to cloud architecture, make him an absolute asset to any hardware or software project. His attitude about supporting his teammates and our customers made him stand-out among his fellow engineers and he is someone I truly treasured working with."
+  }]
+}
